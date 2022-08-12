@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Lucas Martins 🖐️
 
 <div align="center">
-<img height="400em"  src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"
+<img height="400em"  src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/"
 </div>
 </br>
 
