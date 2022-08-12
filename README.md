@@ -18,6 +18,8 @@
 <div align="center">
 <h2>Minhas redes socias para contato</h2>
 </div>
+</br>
+
 
 <div align="center" style="display: inline-block">
   <a href="https://www.instagram.com/martins2812/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
