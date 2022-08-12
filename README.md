@@ -13,10 +13,6 @@
   </br>
 </div>
 
-<div align="center">
-<img align="center" src="">
-
-</div>
 
 <div align="center">
 <h2>Minhas redes socias para contato</h2>
