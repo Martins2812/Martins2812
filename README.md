@@ -14,11 +14,11 @@
 </div>
 
 <div align="center">
-<h2>Tecnologias que eu uso no meu dia</h2>
+<h2> </h2>
 </div>
 
 <div align="center">
-<img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+<img align="center" src="">
 
 </div>
 
