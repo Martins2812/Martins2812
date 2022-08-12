@@ -14,7 +14,6 @@
   </a>
 </div>
 
-
 <div align="center">
 <h2>Minhas redes socias para contato</h2>
 </div>
