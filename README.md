@@ -57,6 +57,14 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucass.martins2812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+</div>
+
+<div align="center"> 
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)  
+  
+</div>
+
 <div align="center">
 <h2>My repositories:</h2>
 </div>
@@ -72,13 +80,7 @@
 </a>
 
  
-</div>
 
-<div align="center"> 
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)  
-  
-</div>
 
   
   
