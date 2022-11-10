@@ -1,5 +1,9 @@
 ## Hi I'm Lucas Martins 👋
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/header-github.gif" alt="">
+</p>
+
 <div align="center"> 
    <ul>
      <p>
