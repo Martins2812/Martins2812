@@ -1,17 +1,15 @@
-## Hi I'm Lucas Martins 👋
-
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/header-github.gif" alt="">
+  <img src="https://github.com/Martins2812/Martins2812/raw/main/assets/header-github.gif" alt="">
 </p>
 
 <div align="center"> 
    <ul>
-     <p>
+     <h1>
       🌎 I live in <strong>Petrópolis - RJ</strong>
-     </p>
-     <p>
+     </h1>
+     <h2>
       👨‍🎓 I'm currently studying and developing in <strong>Full Stack</strong> | <a href="https://serratec.org">Serratec</a> 
-     </p>
+     </h2>
    </ul>
  </div>
  
