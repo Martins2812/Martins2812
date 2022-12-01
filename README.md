@@ -46,8 +46,8 @@
  
 <div width="100%" align="center" >
   <a href="https://github.com/Martins2812">
-    <img  width="45%"  src="https://github-readme-stats.vercel.app/api?username=Martins2812&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> 
-    <img  width="44.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins2812&theme=dracula&hide_border=false&&layout=compact"/>
+    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=Martins2812&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> 
+    <img  width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins2812&theme=dracula&hide_border=false&&layout=compact"/>
  </a>
 </div>
   
