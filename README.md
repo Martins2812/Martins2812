@@ -44,10 +44,9 @@
  </br>
  
 <div align="center">
-  <a href="https://github.com/Martins2812">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api?username=Martins2812&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> 
-    <img  width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins2812&theme=dracula&hide_border=false&&layout=compact"/>
- </a>
+<a href="https://github.com/GabrielFsimoes">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins2812&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Martins2812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <div align="center">
@@ -71,21 +70,3 @@
 <div align="center">
 <h2>My repositories:</h2>
 </div>
-
-<div align="center" width="100%">
-  
-<a href="https://github.com/Martins2812/ToDoList-APP">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Martins2812&repo=ToDoList-APP&bg_color=0,45A3D1,45A3D1,4dfcff&theme=graywhite" loading="lazy"/>
-</a>  
-
-<a href="https://github.com/Martins2812/E-CommerceProjetoFinalAPI">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Martins2812&repo=E-CommerceProjetoFinalAPI&bg_color=0,45A3D1,4dfcff,3B93E6&theme=graywhite" loading="lazy"/>
-</a>
-
- 
-
-
-  
-  
-  
-
