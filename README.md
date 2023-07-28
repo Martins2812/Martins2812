@@ -7,7 +7,6 @@
      <h1>
       🌎 I live in <strong>Petrópolis - RJ</strong>
      </h1>
-     </br>
      <h2>
       👨‍🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>
      </h2>
