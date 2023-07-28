@@ -7,8 +7,12 @@
      <h1>
       🌎 I live in <strong>Petrópolis - RJ</strong>
      </h1>
+     </br>
      <h2>
-      👨‍🎓 I'm currently studying and developing in <strong>Full Stack</strong> | <a href="https://serratec.org">Serratec</a> 
+      👨‍🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>
+     </h2>
+     <h2>
+      👨‍🎓 <strong>Desenvolvedor Full Stack</strong> | <a href="https://serratec.org">Serratec</a> 
      </h2>
    </ul>
  </div>
