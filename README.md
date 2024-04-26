@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Martins2812/Martins2812/raw/main/assets/header-github.gif" alt="">
-</p>
-
 <div align="center"> 
    <ul>
      <h1>
@@ -11,7 +7,7 @@
       👨‍🎓 <strong>Análise e Desenvolvimento de Sistemas</strong>
      </h2>
      <h2>
-      👨‍🎓 <strong>Desenvolvedor Full Stack</strong> | <a href="https://serratec.org">Serratec</a> 
+      👨‍🎓 <strong>Desenvolvedor Full Stack</strong> 
      </h2>
    </ul>
  </div>
